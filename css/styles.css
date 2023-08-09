@@ -15,7 +15,6 @@ body {
 }
 .logo-header{
     color: #2E2F42;
-    text-decoration: none;
 }
 .information-list{
     list-style-type: none;
@@ -23,9 +22,8 @@ body {
 .information{
     color: #2E2F42;
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
 }
@@ -75,7 +73,6 @@ body {
 .section-heading{
     color: #2E2F42;
     font-size: 36px;
-    font-style: normal;
     font-weight: 700;
     line-height: 1.11; /* 111.111% */
     letter-spacing: 0.02em;
@@ -88,15 +85,12 @@ body {
 .feature-headers{
     color:#2E2F42;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
     line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
 }
 .paragraph{
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
     line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
 }
@@ -111,7 +105,6 @@ body {
 .stuff-headers{
     color: #2E2F42;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
     line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
@@ -123,7 +116,6 @@ body {
 .portfolio-headers{
     color: #2E2F42;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
     line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
@@ -137,8 +129,6 @@ body {
     color: #F4F4FD;
     letter-spacing: 0.02em;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
 }
 .logo-footer{
     color: #F4F4FD;
