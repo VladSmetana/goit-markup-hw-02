@@ -16,10 +16,6 @@ body {
 .logo-header{
     color: #2E2F42;
     text-decoration: none;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
 }
 .information-list{
     list-style-type: none;
@@ -149,8 +145,4 @@ body {
     font-size: 18px;
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
 }
