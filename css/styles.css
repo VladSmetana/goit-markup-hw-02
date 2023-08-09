@@ -53,7 +53,7 @@ body {
 .contacts:hover, .contacts:focus{
     color: #404bbf;
 }
-.section-1{
+.section-first{
     background-color: #2e2f42;
 }
 .title{
@@ -105,7 +105,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.section-3{
+.section-third{
     background: #F4F4FD;
 }
 .stuff-list{
